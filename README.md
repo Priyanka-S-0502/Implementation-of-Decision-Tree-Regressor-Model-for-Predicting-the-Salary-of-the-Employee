@@ -9,8 +9,11 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 
 ## Algorithm
 1. Import the libraries and read the data frame using pandas.
+ 
 2.Calculate the null values present in the dataset and apply label encoder.
+
 3.Determine test and training data set and apply decison tree regression in dataset.
+
 4.Calculate Mean square error,data prediction and r2.
 
 ## Program:
@@ -54,26 +57,19 @@ dt.predict([[5,6]])
 
 ## Output:
 
-<img width="401" height="283" alt="image" src="https://github.com/user-attachments/assets/ebdd5488-de0c-4d75-81ca-21c046d727d4" />
+<img width="1629" height="280" alt="image" src="https://github.com/user-attachments/assets/4f1c914d-79c4-42d9-bf8f-94c3d53b8010" />
 
+<img width="1608" height="262" alt="image" src="https://github.com/user-attachments/assets/b0d92761-cca5-4fdd-adca-34a21200de79" />
 
-<img width="470" height="257" alt="image" src="https://github.com/user-attachments/assets/393bcab6-aee4-4bf9-a2a5-6b8c313da0b4" />
+<img width="1636" height="114" alt="image" src="https://github.com/user-attachments/assets/0ed0d73d-a6dd-4a85-80c6-5876d487977f" />
 
+<img width="1636" height="287" alt="image" src="https://github.com/user-attachments/assets/4143a234-3625-43fb-abec-3747e3384832" />
 
-<img width="200" height="128" alt="image" src="https://github.com/user-attachments/assets/fe58481b-1880-4393-aac1-8825cfc5d099" />
+<img width="1635" height="129" alt="image" src="https://github.com/user-attachments/assets/e3f06b18-5cc2-4acf-a8e9-06d9c46aeecd" />
 
+<img width="1643" height="169" alt="image" src="https://github.com/user-attachments/assets/eead10ed-b025-44d4-ba5b-43ef5ab122da" />
 
-<img width="350" height="281" alt="image" src="https://github.com/user-attachments/assets/71002a65-ad64-4945-85b4-c5d1431b50b3" />
-
-
-<img width="431" height="113" alt="image" src="https://github.com/user-attachments/assets/8d2bad16-0205-4839-b604-0ebb6bf8240f" />
-
-
-<img width="617" height="172" alt="image" src="https://github.com/user-attachments/assets/86d84f73-80fd-4a11-9a54-a4b80f33682e" />
-
-
-<img width="1656" height="136" alt="image" src="https://github.com/user-attachments/assets/c6113362-5eb6-42c0-ac83-bdbdd6a954b2" />
-
+<img width="1664" height="125" alt="image" src="https://github.com/user-attachments/assets/3b8a4b39-0702-42bf-9db2-3f50b6199e43" />
 
 
 ## Result:
